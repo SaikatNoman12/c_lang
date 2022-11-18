@@ -23,7 +23,10 @@ int main(){
     printf("Sum2 is %d. ", sum2);
 
     // sum in 3rd type:
-    
+    int e = 100, f = 400, sum3;
+
+    sum3 = e + f;
+    printf("Sum3 is %d", sum3);
 
 
     return 0; 
